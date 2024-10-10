@@ -1,7 +1,7 @@
 # Bibl
 ## Linux and Android apps
 + Andoid apps
-  * QUIK -> Messaging app
+  * QUIK SMS
   * Fossify Gallery
   * Karbon
   * Obtainium
