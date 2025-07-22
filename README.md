@@ -69,13 +69,13 @@
     * Unmetered VPN
     * UpdateLocker
     * Wa Enhancer
-    * YouTuve AdAway
+    * YouTube AdAway
     * Re:Telegram
   * Magisk Modules
     * Audio Jitter silencer
     * BCR (Basic Call Recorder)
     * Cross Compiled Binaries
-    * DisableFPGestureFog
+    * DisableFPGesture
     * Fluent Emoji (Microsoft)
     * GAMING Mode
     * Isodrive
